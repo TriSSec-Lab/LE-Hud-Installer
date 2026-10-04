@@ -1,7 +1,7 @@
 
 # LE-Hud-Installer
 
-MelonLoader and HUD Installer for the game Last Epoch
+Automated MelonLoader and [HUD Mod](https://github.com/Syncingoutt/LastEpoch_Mods) Installer 
 
 ## Installation
 
