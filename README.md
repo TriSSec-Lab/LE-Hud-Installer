@@ -7,7 +7,7 @@ MelonLoader and HUD Installer for the game Last Epoch
 
 Download `Last Epoch HUD Installer.zip` in [Releases](https://github.com/TriSSec-Lab/LE-Hud-Installer/releases) and extract it into your root Last Epoch game folder. (where your Last Epoch.exe is located)
 
-Run it once, Follow the instructions, It'll tell you to open Last Epoch once and then restart the .bat file.
+Run it once, Follow the instructions, It'll tell you to open Last Epoch once and then run `Last Epoch HUD Installer.bat` again.
 
 ## Update
 
