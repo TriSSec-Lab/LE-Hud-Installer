@@ -1,7 +1,7 @@
 
 # LE-Hud-Installer
 
-Automated MelonLoader and [HUD Mod](https://github.com/Syncingoutt/LastEpoch_Mods) Installer 
+Automated [MelonLoader](https://github.com/lavagang/melonloader) and [HUD Mod](https://github.com/Syncingoutt/LastEpoch_Mods) Installer 
 
 ## Installation
 
@@ -31,3 +31,4 @@ Remove these files to fully uninstall the HUD and MelonLoader
 
 * [RCInet](https://github.com/RCInet/LastEpoch_Mods) – Original mod developer.
 * [Syncingoutt](https://github.com/Syncingoutt/LastEpoch_Mods) – Developer of the updated fork.
+* [MelonLoader](https://github.com/lavagang/melonloader) - Mod Loader that makes all Last Epoch mods work!! 
